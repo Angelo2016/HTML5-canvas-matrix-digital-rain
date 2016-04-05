@@ -17,3 +17,9 @@ and that's it. Though for best results, it's a good idea to include the (minimal
 
 For a pure javascript alternative (ie. for browsers that don't implement the HTML5 canvas element properly/at all), check out my previous html/js matrix script, jQuery Matrix Digital Rain: https://github.com/koroshiya/jquery-matrix-digital-rain
 *Note: contrary to the title, my previous script does not require jquery (anymore).
+
+
+
+Hi koroshiya,
+
+I would like to have a gif file (400x400) with your matrix animation but just changing the font for Kogaion SC FR v3.9. You can contact me at contact@unoa.info or Angelo2016. Thanks.
